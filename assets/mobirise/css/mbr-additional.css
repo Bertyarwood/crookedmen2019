@@ -3330,6 +3330,24 @@ body {
 .cid-qJraxdePa2 .mbr-text {
   color: #767676;
 }
+.cid-rkk3fFnL28 {
+  padding-top: 75px;
+  padding-bottom: 30px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-rkk3fFnL28 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-rkk3fFnL28 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-rkk3fFnL28 .mbr-text {
+  color: #767676;
+}
 .cid-qHb1Zjfwxz .navbar {
   padding: .5rem 0;
   background: #333333;
