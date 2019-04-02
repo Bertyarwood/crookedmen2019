@@ -42,7 +42,7 @@
       "settings": {
         "main": true,
         "title": "Home",
-        "meta_descr": "Old Lags Golf\nBert\nYarwood\nCrooked men",
+        "meta_descr": "Old Lags Golf\nBert\nYarwood\nCrooked men\n2019",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -2692,7 +2692,7 @@
     },
     "page3.html": {
       "settings": {
-        "meta_descr": "Web Page Generator Description",
+        "meta_descr": "Old Lags Results",
         "title": "Results",
         "order": 2
       },
