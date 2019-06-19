@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Old Lags Golf 2019",
-    "currentPage": "index.html",
+    "currentPage": "page1.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -1701,7 +1701,7 @@
             }
           },
           "_name": "content1",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><b>\"It</b></div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-7\" data-app-selector=\".mbr-text\" data-multiline mbr-article><p>If you have wondered how he does it, you have to get there early. I was at my home club good and early just to sort out some of the administration for the day and there he was. First he was on the driving range, next he was practising his putting and to make sure he was in good shape, John got busy trying out his Bulgarian with the friendly staff. Not a drop of wine though. The friendly staff put on some decent sandwiches (all granary and no egg).</p><p>Mr Wine took all the prizes. Won the individual by a clear 10 points. And won the pairs competition almost single handed. Handicap of course has been slashed again. Is it enough? We'll have to see when we go to Handsworth.</p><p>By and large the course provoded plenty of challenges and had there not been so much rain the previous week, the greens would have been quicker and the bunkers more playable. Everywhere looked very green and luscious. We ended up at the Kings Head where other than a slightly slow service we were well fed and watered.</p></div>\n        </div>\n    </div>\n</section>",
           "_anchor": "content1-14",
           "_isUserblock": true,
           "_cid": "qWgnIZPPL7",
